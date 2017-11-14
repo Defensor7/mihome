@@ -29,4 +29,4 @@ $ service mihome start
 
 $ sudo service mihome start
 
-Special thanks go to http://pvto.info.
+Special thanks go to http://ptvo.info.
